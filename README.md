@@ -31,6 +31,6 @@ I'm a self-taught full stack engineer
 <br />
 <br />
 
-<a href="https://twitter.com/geekendev">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/geeken">
+  <img align="right" alt="Justin Watson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
